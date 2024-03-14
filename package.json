@@ -1,6 +1,6 @@
 {
   "name": "simple-oprations-maths",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Oprations maths",
   "main": "main.js",
   "scripts": {
@@ -12,10 +12,10 @@
   },
   "keywords": [
     "math",
-  "simple",
-  "substraction",
+    "simple",
+    "substraction",
     "addition",
-  "multiplication"
+    "multiplication"
   ],
   "author": "@joshf60",
   "license": "MIT",
@@ -24,5 +24,10 @@
   },
   "homepage": "https://github.com/joshf60/simple-oprations-maths#readme",
   "dependencies": {
+    "lodash": "^4.17.21",
+    "simple-claculator": "^1.0.2",
+    "simple-loading-wave": "^0.0.2",
+    "simpleton-jwt": "^1.0.1",
+    "smpl-cachejs": "^0.0.3"
   }
 }
