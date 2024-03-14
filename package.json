@@ -1,0 +1,28 @@
+{
+  "name": "simple-oprations-maths",
+  "version": "0.0.1",
+  "description": "Oprations maths",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshf60/simple-oprations-maths.git"
+  },
+  "keywords": [
+    "math",
+  "simple",
+  "substraction",
+    "addition",
+  "multiplication"
+  ],
+  "author": "@joshf60",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshf60/simple-oprations-maths/issues"
+  },
+  "homepage": "https://github.com/joshf60/simple-oprations-maths#readme",
+  "dependencies": {
+  }
+}
